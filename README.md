@@ -13,7 +13,7 @@ Nexus aims to make networking as fast and lightweight as possible:
 - **Higher FPS & Less Lag:** Sending smaller batches and processing data.
 - & Way more.<br>
 
-Check out the full detailed comparison numbers & data in the [Benchmarks](./benchmark/Benchmarks.md).<br>
+You can check out the benchmarks [here](./benchmark/Benchmarks.md). This compares Nexus with other Networkers.<br>
 
 # Why Nexus over Blink or Zap?
 
