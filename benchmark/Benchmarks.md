@@ -13,7 +13,7 @@ Definition files used for benchmarks can be found [here](https://github.com/1Axe
 `P[NUMBER]` = [NUMBER] Percentile  
 *The tables below are calculated averages across multiple test runs.*
 
-## Last Updated 2026-10-20 21:35:49 CEST
+## Last Updated 2026-10-20 21:38:49 CEST
 
 ## Tool Versions
 - `nexus`: Latest
@@ -26,15 +26,6 @@ Definition files used for benchmarks can be found [here](https://github.com/1Axe
 - Graphics Card: `NVIDIA GeForce RTX 3050`
 - Memory #1: `8GB 2666`
 - Memory #2: `8GB 2666`
-
-## Failures & Validation
-|Tool|Booleans Status|Entities Status|Notes|
-|---|---|---|---|
-|roblox|PASSED|FAILED|Server validation error: Received incorrect data with roblox for Entities|
-|blink|PASSED|FAILED|Server validation error: Received incorrect data with blink for Entities|
-|zap|PASSED|FAILED|Server validation error: Received incorrect data with zap for Entities|
-|bytenet|PASSED|FAILED|Server validation error: Received incorrect data with bytenet for Entities|
-|nexus|PASSED|FAILED|Server validation error: Received incorrect data with nexus for Entities|
 
 ## Averages
 |Tool|Booleans Avg FPS|Booleans Avg Kbps|Entities Avg FPS|Entities Avg Kbps|Sent Packets (Avg)|
