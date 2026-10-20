@@ -1,7 +1,9 @@
 # Benchmarks
 ## Methodology
 Benchmarks are done by firing the event 1000 times per frame with the same data every frame for 10 seconds.<br>
+
 **Credits to Blink for this networker, everything is completely redone with my computer & latest versions of all the networkers.**<br>
+
 Benchmark done by 1Axen can be found [here](https://github.com/1Axen/blink/blob/main/benchmark/Benchmarks.md).<br>
 Data used for benchmarks can be found [here](https://github.com/1Axen/Blink/blob/main/benchmark/src/shared/benches).<br>
 Definition files used for benchmarks can be found [here](https://github.com/1Axen/Blink/blob/main/benchmark/definitions).
