@@ -6,11 +6,14 @@ A high-performance and secure Luau buffer networking library for Roblox.
 *Inspired by Blink.*
 
 # Performance
+
 Nexus aims to make networking as fast and lightweight as possible:
 
 - **Lower Bandwidth:** Packing numbers, strings, and booleans into raw buffers means significantly smaller packet sizes.
 - **Higher FPS & Less Lag:** Sending smaller batches and processing data.
-- & Way more.
+- & Way more.<br>
+
+Check out the full detailed comparison numbers & data in the [Benchmarks](./benchmark/Benchmarks.md).<br>
 
 # Why Nexus over Blink or Zap?
 
@@ -22,9 +25,6 @@ Blink and Zap are awesome tools, but Nexus is built with a few different priorit
 
 **This networker is currently in use on the following game:**
 - [Bayview County, USA](https://www.roblox.com/games/72523637494021/Bayview-County)
-
-
-Check out the full detailed comparison numbers & data in the [Benchmarks](./benchmark/Benchmarks.md).
 
 # Release Date
 n/A
